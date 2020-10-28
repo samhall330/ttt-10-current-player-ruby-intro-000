@@ -6,3 +6,4 @@ board.each do |turn|
   end
   counter
 end
+end

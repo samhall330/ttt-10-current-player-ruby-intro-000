@@ -4,6 +4,6 @@ board.each do |turn|
   if turn == "X" || "O"
     counter += 1
   end
-  counter
 end
+counter
 end
